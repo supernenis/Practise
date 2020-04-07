@@ -24,3 +24,7 @@ git merge q1
 
 
 git revert 
+
+git reset
+
+vi . gitignore
