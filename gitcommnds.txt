@@ -1,0 +1,26 @@
+cat >> v1 (create or append)
+
+cat v1 (to view)
+
+git add . (add all the files to the staging)
+git add v1 (add file V1 to the staging)
+
+git status
+
+git commit -m
+
+git branch
+
+git branch (
+
+git branch q1
+
+git checkout q1 (data in master will be in q1)
+
+cat >> v1
+
+git checkout master 
+git merge q1
+
+
+git revert 
